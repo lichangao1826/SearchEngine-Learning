@@ -1,7 +1,7 @@
 # 《这就是搜索引擎》读书笔记
 
 <div align="center">    
-    <img src="http://assets.processon.com/chart_image/5dc246a4e4b0ea86c4236b8b.png?_=1573034183245" height=600px />
+    <img src="./resources/搜索引擎架构.png" height=600px />
 </div>
 
 ## 网络爬虫 & 网页去重
