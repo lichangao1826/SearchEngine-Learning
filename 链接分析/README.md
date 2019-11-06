@@ -1,5 +1,5 @@
 ## 链接分析
 
 <div align="center">    
-    <img src="../resources/链接分析.png" height=500px />
+    <img src="https://cdn.lichangao.com/wp-content/uploads/2019/11/链接分析.png" height=500px />
 </div>

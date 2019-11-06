@@ -1,7 +1,7 @@
 # 《这就是搜索引擎》读书笔记
 
 <div align="center">    
-    <img src="./resources/搜索引擎架构.png" height=600px />
+    <img src="https://cdn.lichangao.com/wp-content/uploads/2019/11/搜索引擎架构.png" height=600px />
 </div>
 
 ## 网络爬虫 & 网页去重
