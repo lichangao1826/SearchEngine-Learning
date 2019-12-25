@@ -1,7 +1,7 @@
 # 《这就是搜索引擎》读书笔记
 
 <div align="center">    
-    <img src="https://cdn.lichangao.com/wp-content/uploads/2019/11/搜索引擎架构.png" height=600px />
+    <img src="https://github.com/lichangao1826/SearchEngine-Learning/blob/master/resources/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E6%9E%B6%E6%9E%84.png" height=600px />
 </div>
 
 ## 后台计算系统
